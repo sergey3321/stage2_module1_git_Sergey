@@ -1,0 +1,24 @@
+From e4f7b8f560cd5abe321c6ad160214031cd33fc61 Mon Sep 17 00:00:00 2001
+From: sergey3321 <mail.sergey21@gmail.com>
+Date: Tue, 23 Jul 2024 14:42:09 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 00935f1..ae747db 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line 1
+-Line 2
++Modified Line 1
++Modified Line 2
+ Line 3
+ Line 4
+ Line 5
+-- 
+2.45.1.windows.1
+
